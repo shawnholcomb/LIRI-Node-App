@@ -26,7 +26,7 @@ Utilizing the OMDB API, LIRI will search for a provided movie and return the tit
 
 ### "do-what-it-says"
 
-Utilizing the FS Node package LIRI will read the following information from the random.txt file and run the provided search against the provided case '''spotify-this-song,"I Want it That Way"'''.
+Utilizing the FS Node package LIRI will read the following information from the random.txt file and run the provided search against the provided case `spotify-this-song,"I Want it That Way"`.
 
 
 LIRI also utilized the fsappendFile command to log all activity to a log.txt file.
