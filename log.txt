@@ -1,0 +1,153 @@
+Venue: Kägelbanan Södra Teatern
+Location: Norrmalm,  Sweden
+Date: 02/23/2019
+------------------------------
+Venue: Lille Vega
+Location: København,  Denmark
+Date: 02/24/2019
+------------------------------
+Venue: Festsaal Kreuzberg
+Location: Berlin,  Germany
+Date: 02/26/2019
+------------------------------
+Venue: Tivolivredenburg Pandora Hall
+Location: Utrecht,  Netherlands
+Date: 02/27/2019
+------------------------------
+Venue: Le Trabendo
+Location: Paris,  France
+Date: 03/01/2019
+------------------------------
+Venue: Sala But 
+Location: Madrid,  Spain
+Date: 03/02/2019
+------------------------------
+Venue: The Depot
+Location: Leuven,  Belgium
+Date: 03/03/2019
+------------------------------
+Venue: Scala
+Location: London,  United Kingdom
+Date: 03/05/2019
+------------------------------
+Venue: Scala
+Location: London,  United Kingdom
+Date: 03/06/2019
+------------------------------
+Venue: Variety Playhouse
+Location: Atlanta, GA United States
+Date: 03/29/2019
+------------------------------
+Venue: The Orange Peel
+Location: Asheville, NC United States
+Date: 03/30/2019
+------------------------------
+Venue: Baltimore Soundstage
+Location: Baltimore, MD United States
+Date: 04/02/2019
+------------------------------
+Venue: Newport Music Hall
+Location: Columbus, OH United States
+Date: 04/03/2019
+------------------------------
+Venue: El Club
+Location: Detroit, MI United States
+Date: 04/05/2019
+------------------------------
+Venue: Headliners Music Hall
+Location: Louisville, KY United States
+Date: 04/06/2019
+------------------------------
+Venue: Exit/In
+Location: Nashville, TN United States
+Date: 04/07/2019
+------------------------------
+Venue: House of Blues New Orleans presented by Cricket Wireless
+Location: New Orleans, LA United States
+Date: 04/09/2019
+------------------------------
+Venue: White Oak Music Hall
+Location: Houston, TX United States
+Date: 04/11/2019
+------------------------------
+Venue: Trees
+Location: Dallas, TX United States
+Date: 04/12/2019
+------------------------------
+Venue: Mohawk Austin
+Location: Austin, TX United States
+Date: 04/13/2019
+------------------------------
+Venue: The Complex
+Location: Salt Lake City, UT United States
+Date: 04/26/2019
+------------------------------
+Venue: Ogden Theatre
+Location: Denver, CO United States
+Date: 04/27/2019
+------------------------------
+Venue: Meow Wolf
+Location: Santa Fe, NM United States
+Date: 04/30/2019
+------------------------------
+Venue: The Van Buren
+Location: Phoenix, AZ United States
+Date: 05/01/2019
+------------------------------
+Venue: Fox Theater
+Location: Oakland, CA United States
+Date: 05/04/2019
+------------------------------
+Venue: Observatory
+Location: Santa Ana, CA United States
+Date: 05/03/2019
+------------------------------
+Venue: Firefly Music Festival
+Location: Dover, DE United States
+Date: 06/22/2019
+------------------------------
+Venue: Electric Forest Festival 
+Location: Rothbury, MI United States
+Date: 06/29/2019
+------------------------------
+Venue: Forecastle Festival
+Location: Louisville, KY United States
+Date: 07/12/2019
+------------------------------
+Venue: Rockefeller
+Location: Oslo,  Norway
+Date: 10/23/2019
+------------------------------
+Venue: Paradiso Grote Zaal
+Location: Nieuw-amsterdam,  Netherlands
+Date: 11/05/2019
+------------------------------
+Venue: Gorilla
+Location: Manchester,  United Kingdom
+Date: 11/07/2019
+------------------------------
+Venue: SWG3 Studio Warehouse
+Location: Glasgow,  United Kingdom
+Date: 11/10/2019
+------------------------------
+Venue: SWX
+Location: Bristol,  United Kingdom
+Date: 11/11/2019
+------------------------------
+Venue: Roundhouse
+Location: London,  United Kingdom
+Date: 11/12/2019
+------------------------------
+Venue: Cat's Cradle
+Location: Carrboro, NC United States
+Date: 03/31/2019
+------------------------------
+Title: Avatar
+Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 82%
+Country: UK, USA
+Language: English, Spanish
+Plot: undefined
+Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+------------------------------
