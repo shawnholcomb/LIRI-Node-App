@@ -19,9 +19,9 @@ Utilizing the Spotify APU, LIRI will search for a provided song and return the s
 
 - **"movie-this"**<br/>
 
-Utilizing the OMDB API, LIRI will search for a provided movie and return the title, release year and ratings as well as a number of other details.  If no movie is provided LIRI will default to the movie *Mr. Robot*.
-
 ![movie-this demo](http://i63.tinypic.com/znlxrn.gif)
+
+Utilizing the OMDB API, LIRI will search for a provided movie and return the title, release year and ratings as well as a number of other details.  If no movie is provided LIRI will default to the movie *Mr. Robot*.
 
 - **"do-what-it-says"**<br/>
 
