@@ -1,4 +1,4 @@
-# LIRI-Node-App
+# LIRI - A Node.js Application
 
 # Description
 
