@@ -7,7 +7,7 @@ LIRI is similar to iPhone's SIRI, though while SIRI is a Speech Interpretation a
 LIRI understands the following commands:
 
 ### "concert-this"
-![concert-this demo](http://i68.tinypic.com/vzvjlz.gif)
+![concert-this demo]()
 
 Utilizing the Bands In Town API, LIRI will search for a provided band and return concert location and dates.
 
@@ -21,7 +21,7 @@ Utilizing the Spotify APU, LIRI will search for a provided song and return the s
 
 ### "movie-this"**
 
-![movie-this demo](http://i63.tinypic.com/znlxrn.gif)
+![movie-this demo]()
 
 Utilizing the OMDB API, LIRI will search for a provided movie and return the title, release year and ratings as well as a number of other details.  If no movie is provided LIRI will default to the movie *Mr. Robot*.
 
@@ -35,4 +35,4 @@ Utilizing the FS Node package LIRI will read the following information, `spotify
 
 LIRI also utilized the fsappendFile command to log all activity to a log.txt file.
 
-![appendfile demo](https://media.giphy.com/media/2gZ5QXifuYiFDFDRve/giphy.gif)
+![appendfile demo]()
