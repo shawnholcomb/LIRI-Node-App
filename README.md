@@ -8,9 +8,9 @@ LIRI understands the following commands:
 
 - **"concert-this"**<br/>
 
-Utilizing the Bands In Town API, LIRI will search for a provided band and return concert location and dates.
-
 ![concert-this demo](http://i68.tinypic.com/vzvjlz.gif)
+
+Utilizing the Bands In Town API, LIRI will search for a provided band and return concert location and dates.
 
 - **"spotify-this-song"**<br/>
 
