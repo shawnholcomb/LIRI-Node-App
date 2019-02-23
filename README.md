@@ -14,6 +14,8 @@ Utilizing the Bands In Town API, LIRI will search for a provided band and return
 
 ### "spotify-this-song"
 
+![spotify-this-song demo]()
+
 Utilizing the Spotify APU, LIRI will search for a provided song and return the song title, album name and a preview link to the song on Spotify.  If no song is provided LIRI will default the one of the greatest songs of the 90's, "The Sign" from the Swedish powerhouse, *Ace of Base*. 
 
 
@@ -25,6 +27,8 @@ Utilizing the OMDB API, LIRI will search for a provided movie and return the tit
 
 
 ### "do-what-it-says"
+
+![do-what-it-says demo]()
 
 Utilizing the FS Node package LIRI will read the following information, `spotify-this-song,"I Want it That Way"`, from the `random.txt` file and run the provided search against the provided case.
 
