@@ -35,4 +35,4 @@ Utilizing the FS Node package LIRI will read the following information, `spotify
 
 LIRI also utilized the fsappendFile command to log all activity to a log.txt file.
 
-![appendfile demo]()
+![appendfile demo](https://media.giphy.com/media/2gZ5QXifuYiFDFDRve/giphy.gif)
