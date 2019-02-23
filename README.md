@@ -20,7 +20,7 @@ With song title:<br/>
 ![spotify-this-song demo](https://media.giphy.com/media/1j9JaGUdSS8XrXgHZA/giphy.gif)!
 
 Without song title:<br/>
-[spotify-this-song-not-title demo]https://media.giphy.com/media/AirgTRlZ0TH9xqmqwy/giphy.gif)
+![spotify-this-song-not-title demo](https://media.giphy.com/media/AirgTRlZ0TH9xqmqwy/giphy.gif)
 
 ### "movie-this"**
 
