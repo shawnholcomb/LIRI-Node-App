@@ -1,4 +1,4 @@
-Venue: Kägelbanan Södra Teatern
+[object Object][object Object][object Object]Venue: Kägelbanan Södra Teatern
 Location: Norrmalm,  Sweden
 Date: 02/23/2019
 ------------------------------
@@ -14,13 +14,13 @@ Venue: Tivolivredenburg Pandora Hall
 Location: Utrecht,  Netherlands
 Date: 02/27/2019
 ------------------------------
-Venue: Le Trabendo
-Location: Paris,  France
-Date: 03/01/2019
-------------------------------
 Venue: Sala But 
 Location: Madrid,  Spain
 Date: 03/02/2019
+------------------------------
+Venue: Le Trabendo
+Location: Paris,  France
+Date: 03/01/2019
 ------------------------------
 Venue: The Depot
 Location: Leuven,  Belgium
@@ -41,6 +41,10 @@ Date: 03/29/2019
 Venue: The Orange Peel
 Location: Asheville, NC United States
 Date: 03/30/2019
+------------------------------
+Venue: Cat's Cradle
+Location: Carrboro, NC United States
+Date: 03/31/2019
 ------------------------------
 Venue: Baltimore Soundstage
 Location: Baltimore, MD United States
@@ -86,21 +90,21 @@ Venue: Ogden Theatre
 Location: Denver, CO United States
 Date: 04/27/2019
 ------------------------------
-Venue: Meow Wolf
-Location: Santa Fe, NM United States
-Date: 04/30/2019
-------------------------------
 Venue: The Van Buren
 Location: Phoenix, AZ United States
 Date: 05/01/2019
 ------------------------------
-Venue: Fox Theater
-Location: Oakland, CA United States
-Date: 05/04/2019
-------------------------------
 Venue: Observatory
 Location: Santa Ana, CA United States
 Date: 05/03/2019
+------------------------------
+Venue: Meow Wolf
+Location: Santa Fe, NM United States
+Date: 04/30/2019
+------------------------------
+Venue: Fox Theater
+Location: Oakland, CA United States
+Date: 05/04/2019
 ------------------------------
 Venue: Firefly Music Festival
 Location: Dover, DE United States
@@ -138,9 +142,14 @@ Venue: Roundhouse
 Location: London,  United Kingdom
 Date: 11/12/2019
 ------------------------------
-Venue: Cat's Cradle
-Location: Carrboro, NC United States
-Date: 03/31/2019
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: undefined
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 ------------------------------
 Title: Avatar
 Year: 2009
@@ -151,3 +160,4 @@ Language: English, Spanish
 Plot: undefined
 Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
 ------------------------------
+[object Object]
