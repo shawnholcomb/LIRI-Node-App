@@ -1,1 +1,38 @@
-# LIRI-Node-App
+# LIRI - A Node.js Application
+
+## Description
+
+LIRI is similar to iPhone's SIRI, though while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives back data.
+
+LIRI understands the following commands:
+
+### "concert-this"
+![concert-this demo](http://i68.tinypic.com/vzvjlz.gif)
+
+Utilizing the Bands In Town API, LIRI will search for a provided band and return concert location and dates.
+
+
+### "spotify-this-song"
+
+![spotify-this-song demo]()
+
+Utilizing the Spotify APU, LIRI will search for a provided song and return the song title, album name and a preview link to the song on Spotify.  If no song is provided LIRI will default the one of the greatest songs of the 90's, "The Sign" from the Swedish powerhouse, *Ace of Base*. 
+
+
+### "movie-this"**
+
+![movie-this demo](http://i63.tinypic.com/znlxrn.gif)
+
+Utilizing the OMDB API, LIRI will search for a provided movie and return the title, release year and ratings as well as a number of other details.  If no movie is provided LIRI will default to the movie *Mr. Robot*.
+
+
+### "do-what-it-says"
+
+![do-what-it-says demo]()
+
+Utilizing the FS Node package LIRI will read the following information, `spotify-this-song,"I Want it That Way"`, from the `random.txt` file and run the provided search against the provided case.
+
+
+LIRI also utilized the fsappendFile command to log all activity to a log.txt file.
+
+![appendfile demo](https://media.giphy.com/media/2gZ5QXifuYiFDFDRve/giphy.gif)
