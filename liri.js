@@ -4,6 +4,8 @@ var keys = require("./keys");
 var axios = require("axios");
 var moment = require('moment');
 var fs = require("fs");
+var Spotify = require('node-spotify-api');
+var spotify = new Spotify(keys.spotify);
 
 // Grab command line arguments
 var type = process.argv[2];
@@ -47,12 +49,9 @@ function concertThis() {
 
 // Function for grabbing Spotify data
 function spotifyThis() {
-    var Spotify = require('node-spotify-api');
-    var spotify = new Spotify(keys.spotify);
-
     var song;
     if (!search) {
-        song = "The Sign";
+        song = "The Sign Ace of Base";
         getSong();
     } else {
         song = search;
@@ -63,7 +62,11 @@ function spotifyThis() {
         spotify
             .search({ type: 'track', query: song })
             .then(function (response) {
-                var songResponse = (response)
+                var artist = JSON.stringify(response.tracks.items[0].artists[0].name);
+                var song = JSON.stringify(response.tracks.items[0].name);
+                var album = JSON.stringify(response.tracks.items[0].album.name);
+                var preview = JSON.stringify(response.tracks.items[0].artists[0].external_urls.spotify);
+                var songResponse = "Artist: " + artist + "\nSong Title: " + song + "\nAlbum Name: " + album + "\nPreview Link: " + preview + "\n------------------------------\n";
                 console.log(songResponse);
                 fs.appendFile("log.txt", songResponse, function (err) {
                     if (err) {
