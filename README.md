@@ -6,7 +6,7 @@ LIRI is similar to iPhone's SIRI, though while SIRI is a Speech Interpretation a
 
 LIRI understands the following commands:
 
-###"concert-this"
+### "concert-this"
 ![concert-this demo](http://i68.tinypic.com/vzvjlz.gif)
 
 Utilizing the Bands In Town API, LIRI will search for a provided band and return concert location and dates.
